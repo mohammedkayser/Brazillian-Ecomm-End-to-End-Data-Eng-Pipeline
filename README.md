@@ -112,9 +112,9 @@ adls_gen2/
 
 ## 📧 Contact  
 
-- 🌐 **Portfolio**: [https://your-portfolio.com](https://mohamedkayser.com)  
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/mohammedkayser)  
-- 📩 **Email**: [your.email@example.com](mailto:mohammedkayser143@gmail.com)  
+- 🌐 **Portfolio**: [mohamedkayser.com](https://mohamedkayser.com)  
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/mohammedkayser](https://www.linkedin.com/in/mohammedkayser)  
+- 📩 **Email**: [mohammedkayser143@gmail.com](mailto:mohammedkayser143@gmail.com)  
 
 
 
