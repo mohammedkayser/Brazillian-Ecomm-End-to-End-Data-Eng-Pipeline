@@ -6,6 +6,8 @@ The solution is designed with the **Medallion Architecture** (Bronze → Silver 
 
 ---
 
+<img width="1436" height="786" alt="Project_Architechure" src="https://github.com/user-attachments/assets/5abfadcf-0238-423d-ac89-c1776318c903" />
+
 ## 🚀 Architecture Workflow
 
 1. **Data Ingestion**  
@@ -70,17 +72,17 @@ adls_gen2/
 ## 📸 Project Screenshots
 
 1. **Azure Resources Overview**  
-   *(_Insert screenshot of Azure portal homepage showing resources_)*  
+   <img width="1272" height="415" alt="resources" src="https://github.com/user-attachments/assets/17f0eaea-d317-4ad8-a85a-93cf5119be9a" />
 
 2. **Medallion Architecture (Bronze, Silver, Gold Folders)**  
-   *(_Insert screenshot of ADLS folder structure_)*  
+   <img width="1126" height="543" alt="medillion" src="https://github.com/user-attachments/assets/a3092b95-2165-4d7b-8047-57c68d0e40bd" />
 
 3. **ADF Pipeline Workflow**  
-   *(_Insert screenshot of ADF pipeline workflow_)*  
+<img width="1761" height="655" alt="ADF" src="https://github.com/user-attachments/assets/9bf455c1-e0df-439e-9f25-68da1b33c90f" />
 
 4. **Synapse Analytics Queries & Views**  
-   *(_Insert screenshot of Synapse serving Gold layer_)*  
-
+<img width="1529" height="869" alt="synapse" src="https://github.com/user-attachments/assets/1707c247-b48a-4d82-90ba-d0500eae0ebe" />
+  
 ---
 
 ## 📊 Key Learnings
@@ -108,7 +110,11 @@ adls_gen2/
 
 ---
 
-## 📧 Contact
-For questions or collaboration, feel free to connect!  
+## 📧 Contact  
+
+- 🌐 **Portfolio**: [mohamedkayser.com](https://mohamedkayser.com)  
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/mohammedkayser](https://www.linkedin.com/in/mohammedkayser)  
+- 📩 **Email**: [mohammedkayser143@gmail.com](mailto:mohammedkayser143@gmail.com)  
+
 
 
