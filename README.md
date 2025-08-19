@@ -42,11 +42,11 @@ The solution is designed with the **Medallion Architecture** (Bronze → Silver 
 
 ## 📂 Medallion Architecture
 
+```bash
 adls_gen2/
-│── bronze/ → Raw ingested data (CSV, JSON, MongoDB extracts)
-│── silver/ → Cleaned, transformed, joined data (Parquet)
-│── gold/ → Curated data served via Synapse (Views / Tables)
-
+├── bronze/   # Raw ingested data (CSV, JSON, MongoDB extracts)
+├── silver/   # Cleaned, transformed, joined data (Parquet)
+└── gold/     # Curated data served via Synapse (Views / Tables)
 
 ---
 
