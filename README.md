@@ -47,7 +47,7 @@ adls_gen2/
 ├── bronze/   # Raw ingested data (CSV, JSON, MongoDB extracts)
 ├── silver/   # Cleaned, transformed, joined data (Parquet)
 └── gold/     # Curated data served via Synapse (Views / Tables)
-
+```
 ---
 
 ## 🔄 Data Pipeline Flow
